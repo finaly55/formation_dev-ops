@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "node index.js",
     "test": "mocha tests"
   },
   "repository": {
@@ -18,5 +19,8 @@
   "homepage": "https://github.com/finaly55/formation_dev-ops#readme",
   "devDependencies": {
     "should": "^13.2.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
