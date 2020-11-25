@@ -1,0 +1,22 @@
+{
+  "name": "formation_dev-ops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finaly55/formation_dev-ops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finaly55/formation_dev-ops/issues"
+  },
+  "homepage": "https://github.com/finaly55/formation_dev-ops#readme",
+  "devDependencies": {
+    "should": "^13.2.3"
+  }
+}
