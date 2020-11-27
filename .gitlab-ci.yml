@@ -10,4 +10,4 @@ test_one:
 
 after_script:
   - git remote add cleverapps https://$CLEVER_TOKEN:$CLEVER_SECRET@push.clever-cloud.com/app_048ffdc4.git
-  - git push -f cleverapps master
+  - git push -f cleverapps main
