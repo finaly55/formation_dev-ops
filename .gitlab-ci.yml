@@ -4,5 +4,6 @@ image: node:latest
 
 test_one:
   script:
+    - npm install
     - npm install -g mocha
     - npm run test
