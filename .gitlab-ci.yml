@@ -9,4 +9,4 @@ test_one:
     - npm run test
 
 after_script:
-  - push.sh
+  - .gitlab-ci.yml/push.sh
