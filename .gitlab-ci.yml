@@ -12,4 +12,4 @@ test_one:
   script:
     - npm install
     - npm install -g mocha
-    - npm run dev
+    - npm run test
